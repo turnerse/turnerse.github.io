@@ -1,0 +1,6 @@
+(undo-tree-save-format-version . 1)
+"5756d33908e15e8205e2cbf33bc0d0118a99cabc"
+[nil nil nil nil (25458 49200 33133 0) 0 nil]
+([nil nil ((#(" " 0 1 (fontified t)) . 646) (#("#" 0 1 (fontified t face font-lock-comment-delimiter-face)) . 646) (t 25458 49036 832255 2000)) nil (25458 49200 33131 0) 0 nil])
+([nil current ((361 . 363)) nil (25458 49200 33126 0) 0 nil])
+nil
